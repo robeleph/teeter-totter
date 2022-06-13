@@ -1,5 +1,7 @@
 # teeter-totter
-
+```
+A simple Teeter Totter game built with Vue.js
+```
 ## Project setup
 ```
 npm install
@@ -20,5 +22,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
